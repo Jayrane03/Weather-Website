@@ -27,7 +27,8 @@ const getWeather = (city) => {
       wind_degrees.innerHTML = response.wind_degrees;
       sunrise.innerHTML = response.sunrise;
       sunset.innerHTML = response.sunset;
-      // td.value
+      // td.valu
+      others.innerHTML = response.others
  
     })
     

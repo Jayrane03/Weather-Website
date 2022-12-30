@@ -28,7 +28,7 @@ const getWeather = (city) => {
       sunrise.innerHTML = response.sunrise;
       sunset.innerHTML = response.sunset;
       // td.valu
-      others.innerHTML = response.others
+      // others.innerHTML = response.others
  
     })
     
